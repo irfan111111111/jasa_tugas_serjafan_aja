@@ -8,8 +8,8 @@ export const CONFIG = {
   tagline: "Butuh Jasa? SERJAFAN Aja!",
   subtagline: "Semua kebutuhan jasa, lebih mudah dalam satu tempat.",
   location: "Kota Padang, Sumatera Barat",
-  whatsappNumber: "6283813045178", // Format Internasional (+6283813045178)
-  whatsappDisplay: "083813045178",
+  whatsappNumber: "6283899905679", // Format Internasional (+6283899905679)
+  whatsappDisplay: "083899905679",
   instagramUsername: "serba_jasa_fan",
   instagramUrl: "https://instagram.com/serba_jasa_fan",
   minPrice: 3000,

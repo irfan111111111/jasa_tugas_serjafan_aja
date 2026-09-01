@@ -1,6 +1,6 @@
 /**
  * SERJAFAN - WhatsApp Integration Module
- * Official Number: +6283813045178
+ * Official Number: +6283899905679
  */
 
 import { CONFIG } from './data.js';
